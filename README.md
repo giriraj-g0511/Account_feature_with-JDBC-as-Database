@@ -60,7 +60,7 @@ String password = "your_password";
 ### 4️⃣ **Compile & Run**
 ```sh
 javac src/*.java
-java src.LoginFrame
+java src.HomeFrame
 ```
 
 <!--## 📸 Screenshots
