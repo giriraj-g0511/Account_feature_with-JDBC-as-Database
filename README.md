@@ -32,7 +32,6 @@ This project is a **LinkedIn-style Login & Signup System** built using **Java Sw
  ┃ ┣ 📜 ConnectionJDBC.java  (Handles JDBC Connection)
  ┃ ┣ 📜 HomeFrame.java  (Main Dashboard After Login)
  ┣ 📜 README.md
- ┣ 📜 LinkedIn_DB.sql (Database Schema)
 ```
 
 ## 🏗️ Setup & Installation
@@ -64,10 +63,10 @@ javac src/*.java
 java src.LoginFrame
 ```
 
-## 📸 Screenshots
+<!--## 📸 Screenshots
 ![Login Page](screenshots/login.png)
 ![Signup Page](screenshots/signup.png)
-
+-->
 ## 🤝 Contribution
 Feel free to fork this repository and submit a pull request if you'd like to improve the project!
 
