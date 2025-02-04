@@ -25,7 +25,7 @@ import javax.swing.SwingConstants;
 import javax.swing.UIManager;
 import javax.swing.UnsupportedLookAndFeelException;
 
-public class SignUp extends JFrame {
+public class SignupFrame extends JFrame {
 
 	class setUpUI{
 		setUpUI(){

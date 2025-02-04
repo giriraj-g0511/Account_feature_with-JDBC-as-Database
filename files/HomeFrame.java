@@ -23,7 +23,7 @@ import javax.swing.UIManager;
 
 import newPage.SignIn.setUpUI;
 
-public class HomePage extends JFrame {
+public class HomeFrame extends JFrame {
 
 	private JButton signIn, signUp, adminSignIn;
 	Color signInColor = Color.black;

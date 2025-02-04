@@ -23,7 +23,7 @@ import javax.swing.SwingConstants;
 import javax.swing.UIManager;
 import java.sql.ResultSet;
 
-public class SignIn extends JFrame {
+public class LoginFrame extends JFrame {
 	
 	JTextField usernameField, mobileNumberField;
 	JCheckBox checkBox;
